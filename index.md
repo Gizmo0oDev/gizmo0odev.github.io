@@ -1,5 +1,5 @@
 ---
-title: Gizmo0oDev
+title: Gizmo0o
 layout: default
 ---
 
@@ -7,6 +7,11 @@ layout: default
 
 Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/).
 Plain text format allows you to focus on your **content**.
+
+Hi, I'm Gizmo and I'm a Java Developer.
+I enjoy making Minecraft plugins in my spare time, if your interested in contacting me you can do so: [Discord](https://discord.gg/KWwB8uEr3E) [Twitter](https://twitter.com/Gizmo0o_) [Email](mailto:gizmo0obusiness@gmail.com)
+
+If you are interested in viewing my projects then you can check out my [GitHub](https://github.com/Gizmo0oDev)
 
 <!--
 You can use HTML elements in Markdown, such as the comment element, and they won't
